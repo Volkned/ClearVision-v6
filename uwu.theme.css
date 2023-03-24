@@ -12,6 +12,7 @@
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://nyri4.github.io/Discolored/main.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 
 :root {
   --main-color: #FFC4C4;
@@ -26,11 +27,11 @@
   --background-repeat: no-repeat;
   --background-attachment: fixed;
   --background-brightness: 100%;
-  --background-contrast: 100%;
+  --background-contrast: 134%;
   --background-saturation: 100%;
   --background-grayscale: 0%;
   --background-invert: 0%;
-  --background-blur: 1px;
+  --background-blur: 3px;
   --background-overlay: rgba(0,0,0,0.6);
   --user-popout-image: transparent;
   --user-popout-position: center;
